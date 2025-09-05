@@ -1,0 +1,9 @@
+{
+  "name": "contrata-es",
+  "version": "1.0.0",
+  "description": "Dashboard interativo para dados de contratos públicos",
+  "type": "module",
+  "scripts": {
+    "test": "node test/run-tests.js"
+  }
+}

@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#contractsChart {
+  max-width: 800px;
+  margin: 40px auto;
+}
