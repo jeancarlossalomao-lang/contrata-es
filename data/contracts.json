@@ -1,0 +1,12 @@
+[
+  {"id": 1, "value": 1000, "date": "2021-05-14", "supplier": "Empresa C"},
+  {"id": 2, "value": 1800, "date": "2021-09-12", "supplier": "Empresa A"},
+  {"id": 3, "value": 1600, "date": "2022-03-10", "supplier": "Empresa B"},
+  {"id": 4, "value": 2100, "date": "2022-11-22", "supplier": "Empresa D"},
+  {"id": 5, "value": 1000, "date": "2023-01-15", "supplier": "Empresa A"},
+  {"id": 6, "value": 1500, "date": "2023-03-20", "supplier": "Empresa B"},
+  {"id": 7, "value": 2000, "date": "2024-07-01", "supplier": "Empresa A"},
+  {"id": 8, "value": 1750, "date": "2024-08-10", "supplier": "Empresa C"},
+  {"id": 9, "value": 1900, "date": "2025-02-05", "supplier": "Empresa B"},
+  {"id": 10, "value": 2200, "date": "2025-05-30", "supplier": "Empresa A"}
+]

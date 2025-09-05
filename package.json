@@ -1,0 +1,9 @@
+{
+  "name": "contrata-es",
+  "version": "1.0.0",
+  "description": "Dashboard BI de contratos públicos com dados da API da Câmara dos Deputados",
+  "type": "module",
+  "scripts": {
+    "test": "node test/run-tests.js"
+  }
+}
